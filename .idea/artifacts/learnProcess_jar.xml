@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="learnProcess:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/learnProcess_jar</output-path>
+    <root id="archive" name="learnProcess.jar">
+      <element id="module-output" name="learnProcess" />
+    </root>
+  </artifact>
+</component>
